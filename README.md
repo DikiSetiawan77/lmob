@@ -9,7 +9,8 @@
 
 ## PKL BKPSDM
 
-<a href="https://github.com/syamsidin">🍜Kontributor Utama</a>
+<p align="center"><a href="https://github.com/syamsidin">🍜Kontributor Utama</a>
+</p>
 Anggota kelompok PKL BKPSDM :
 - Candra Agus Prasetyo
 - Cindy Rizky Lisgiani
